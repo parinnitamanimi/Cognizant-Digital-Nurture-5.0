@@ -23,7 +23,9 @@ Repository Includes:
 - Notes and mini-projects
 
 Purpose
+
 This repository serves as a record of my Digital Nurture 5.0 learning journey and my progress in Java Full Stack Engineering.
 
 Author
+
 Parinnita Manimi
